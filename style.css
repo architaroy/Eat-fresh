@@ -109,6 +109,7 @@
     color: #18191F;
     font-size: 18px;
 }
+/*Subscriber Styling*/
 .followers{
     display:flex;
     justify-content: space-evenly;
@@ -127,6 +128,7 @@
     font-family:"Montserrat", sans-serif; 
     color: #18191F;
 }
+/*Footer Styling*/
 footer{
     background-color: #0B0D17;
     text-align: center;
